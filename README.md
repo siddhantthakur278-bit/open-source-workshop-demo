@@ -12,4 +12,4 @@ This repo is created to help students make their **first contribution** to open 
 6. Push your branch 🚀
 7. Open a Pull Request (PR) 🎉
 
-Once your PR is merged, congratulations! You are officially an **open source contributor**! 🙌
+Once your PR is merged, congratulations! You are officially an **open source contributor**!
